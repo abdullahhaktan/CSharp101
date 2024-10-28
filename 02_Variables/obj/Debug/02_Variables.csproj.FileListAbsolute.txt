@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\01_MainSubjects\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\User\Source\Repos\01_MainSubjects\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\User\Source\Repos\01_MainSubjects\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\User\Source\Repos\01_MainSubjects\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\01_MainSubjects\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\01_MainSubjects\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\User\Source\Repos\01_MainSubjects\02_Variables\obj\Debug\02_Variables.pdb
+C:\Users\User\Source\Repos\CSharpEgitiimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\User\Source\Repos\CSharpEgitiimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\User\Source\Repos\CSharpEgitiimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\User\Source\Repos\CSharpEgitiimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\CSharpEgitiimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\CSharpEgitiimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\User\Source\Repos\CSharpEgitiimKampi\02_Variables\obj\Debug\02_Variables.pdb

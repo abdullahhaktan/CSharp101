@@ -1,0 +1,7 @@
+C:\Users\User\Source\Repos\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\User\Source\Repos\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\User\Source\Repos\01_MainSubjects\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\User\Source\Repos\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\User\Source\Repos\01_MainSubjects\01_MainSubjects\obj\Debug\01_MainSubjects.pdb

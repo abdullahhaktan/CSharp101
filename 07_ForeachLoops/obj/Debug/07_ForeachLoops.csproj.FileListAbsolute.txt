@@ -1,0 +1,7 @@
+D:\csharp\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe.config
+D:\csharp\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe
+D:\csharp\07_ForeachLoops\bin\Debug\07_ForeachLoops.pdb
+D:\csharp\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.AssemblyReference.cache
+D:\csharp\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.CoreCompileInputs.cache
+D:\csharp\07_ForeachLoops\obj\Debug\07_ForeachLoops.exe
+D:\csharp\07_ForeachLoops\obj\Debug\07_ForeachLoops.pdb
