@@ -1,4 +1,4 @@
-# CSharp1001
+# CSharp101
 
 [TR]
 
@@ -6,7 +6,7 @@
 
 [![C#](https://img.shields.io/badge/Language-C%23-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/Platform-.NET%20(Console%20App)-purple.svg)]()
-[![GitHub repo size](https://img.shields.io/github/repo-size/abdullahhaktan/CSharp1001)](https://github.com/abdullahhaktan/CSharp1001)
+[![GitHub repo size](https://img.shields.io/github/repo-size/abdullahhaktan/CSharp101)](https://github.com/abdullahhaktan/CSharp101)
 
 ---
 
@@ -42,8 +42,8 @@ Bu depo, genellikle birden fazla basit Konsol Uygulaması projesi içerir.
 
 1.  **Projeyi Klonlama:**
     ```bash
-    git clone [https://github.com/abdullahhaktan/CSharp1001](https://github.com/abdullahhaktan/CSharp1001)
-    cd CSharp1001
+    git clone [https://github.com/abdullahhaktan/CSharp101](https://github.com/abdullahhaktan/CSharp101)
+    cd CSharp101
     ```
 
 2.  **Projeleri Açma:**
@@ -59,7 +59,7 @@ Bu depo, genellikle birden fazla basit Konsol Uygulaması projesi içerir.
 
 [EN]
 
-# CSharp1001
+# CSharp101
 
 **Introduction to C# Programming Language and Basic Syntax Training**
 
@@ -97,8 +97,8 @@ This repository typically contains multiple simple Console Application projects.
 
 1.  **Cloning the Project:**
     ```bash
-    git clone [https://github.com/abdullahhaktan/CSharp1001](https://github.com/abdullahhaktan/CSharp1001)
-    cd CSharp1001
+    git clone [https://github.com/abdullahhaktan/CSharp101](https://github.com/abdullahhaktan/CSharp101)
+    cd CSharp101
     ```
 
 2.  **Opening the Projects:**
