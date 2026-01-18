@@ -136,8 +136,6 @@ namespace _04_Loops
 
             //Console.WriteLine(sum);
 
-
-
             #endregion
 
             #region Örnek Sınav Sorusu
@@ -169,3 +167,4 @@ namespace _04_Loops
         }
     }
 }
+
